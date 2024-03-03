@@ -1,0 +1,14 @@
+F___: Código de una facultad
+C____: Código de una carrera
+e9090: Error al buscar el estudiante
+
+0: Salir del menú
+
+Cuando se ingresa por carrera:
+1: Cambiar promedio
+2: Cambiar cantidad de materias aprobadas
+3: Cambiar cantidad de materias reprobadas
+
+Cuando se ingresa por facultad:
+1: Cambiar facultad
+2: Cambiar carrera

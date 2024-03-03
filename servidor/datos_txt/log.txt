@@ -1,0 +1,10 @@
+Fecha_Cambio (2023/12/23 21:28:19): FIEC/CI013
+1: Datos de estudiantes antes del cambio
+Matricula:2022139,Nombre:Mark,Zuckerberg,Facultad:FIEC,Carrera:CI013,Promedio:9.50,Cant_Mat_Ap:1,Cant_Mat_Rep:0
+2: Datos de estudiantes despues del cambio
+Matricula:2022139,Nombre:Mark,Zuckerberg,Facultad:FIEC,Carrera:CI013,Promedio:9.50,Cant_Mat_Ap:30,Cant_Mat_Rep:0
+Fecha_Cambio (2023/12/23 21:29:18): FIEC/CI013
+1: Datos de estudiantes antes del cambio
+Matricula:2022139,Nombre:Mark,Zuckerberg,Facultad:FIEC,Carrera:CI013,Promedio:9.50,Cant_Mat_Ap:30,Cant_Mat_Rep:0
+2: Datos de estudiantes despues del cambio
+Matricula:2022139,Nombre:Mark,Zuckerberg,Facultad:FIEC,Carrera:CI013,Promedio:7.70,Cant_Mat_Ap:30,Cant_Mat_Rep:0
